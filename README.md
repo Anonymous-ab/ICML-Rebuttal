@@ -30,25 +30,25 @@ Normal template for Baseline 2: "SUMMARY OF FINDINGS:  No abnormality is detecte
 
 
 <p align="center">
-  <img src="Rebuttal figures/12550_analysis.png" alt=" Figure 2: Interpretability analysis 12550.">
+  <img src="Rebuttal figures/12550_analysis.png" alt=" Figure 2: Interpretability analysis 12550 (Abnormal).">
 </p>
-<p align="center">Figure 2: Interpretability analysis 12550.</p>
+<p align="center">Figure 2: Interpretability analysis 12550 (Abnormal).</p>
 
 
 <p align="center">
-  <img src="Rebuttal figures/12217_analysis.png" alt=" Figure 3: Interpretability analysis 12217.">
+  <img src="Rebuttal figures/12217_analysis.png" alt=" Figure 3: Interpretability analysis 12217 (Normal).">
 </p>
-<p align="center">Figure 3: Interpretability analysis 12217.</p>
+<p align="center">Figure 3: Interpretability analysis 12217 (Normal).</p>
 
 <p align="center">
-  <img src="Rebuttal figures/11389_analysis.png" alt=" Figure 4: Interpretability analysis 11389.">
+  <img src="Rebuttal figures/11389_analysis.png" alt=" Figure 4: Interpretability analysis 11389 (Abnormal).">
 </p>
-<p align="center">Figure 4: Interpretability analysis 11389.</p>
+<p align="center">Figure 4: Interpretability analysis 11389 (Abnormal).</p>
 
 <p align="center">
-  <img src="Rebuttal figures/11077_analysis.png" alt=" Figure 5: Interpretability analysis 11077.">
+  <img src="Rebuttal figures/11077_analysis.png" alt=" Figure 5: Interpretability analysis 11077 (Normal).">
 </p>
-<p align="center">Figure 5: Interpretability analysis 11077.</p>
+<p align="center">Figure 5: Interpretability analysis 11077 (Normal).</p>
 
 
 
