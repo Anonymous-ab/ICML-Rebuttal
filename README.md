@@ -23,11 +23,6 @@ Normal template for Baseline 2: "SUMMARY OF FINDINGS:  No abnormality is detecte
 </p>
 <p align="center">Figure 1: Classification accuracy confusion matrices on Dog X-ray validation and test sets.</p>
 
-<p align="center">
-  <img src="Rebuttal figures/Confusion matrices.png" alt=" Figure 1: Classification accuracy confusion matrices on Dog X-ray validation and test sets.">
-</p>
-<p align="center">Figure 1: Classification accuracy confusion matrices on Dog X-ray validation and test sets.</p>
-
 
 <p align="center">
   <img src="Rebuttal figures/12550_analysis.png" alt=" Figure 2: Interpretability analysis 12550 (Abnormal).">
