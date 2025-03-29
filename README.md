@@ -29,7 +29,7 @@
 <p align="center">
   <img src="Rebuttal figures/12550_analysis.png" alt=" Figure 2: Interpretability analysis 12550.">
 </p>
-<p align="center">Figure 2: Interpretability analysis 12550./p>
+<p align="center">Figure 2: Interpretability analysis 12550.</p>
 
 
 <p align="center">
